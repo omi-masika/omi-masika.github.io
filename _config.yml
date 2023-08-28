@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Omi Masika"
+  name: # "Omi Masika"
   avatar: "/assets/images/headshot.png"
   bio: "Developer and Automations Programmer"
   location: "Philadelphia"
