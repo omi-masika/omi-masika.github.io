@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: index.html
-  - title: "About"
-   url: omi-masika.github.com/about
-  - title: "Work Samples"
-   url: omi-masika.github.com/samples
-  - title: "Resume"
-   url: omi-masika.github.com/resume
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
