@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://omi-masika.github.io/
   - title: "About"
-    url: https://omi-masika.github.io/about/
+    url: /_pages/about/
   - title: "Work Samples"
-    url: https://omi-masika.github.io/samples/
+    url: /_pages/samples/
+  - title: "Photography"
+   url: /_pages/photography/
   - title: "Resume"
-    url: https://omi-masika.github.io/resume/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /_pages/resume/
