@@ -8,5 +8,5 @@ main:
     url: https://omi-masika.github.io/samples/
   - title: "Resume"
     url: https://omi-masika.github.io/resume/
-  - title: "Photography"
-   url: https://omi-masika.github.io/resume/
+  # - title: "Sitemap"
+  #   url: /sitemap/
