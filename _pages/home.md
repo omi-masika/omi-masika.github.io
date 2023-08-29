@@ -13,14 +13,14 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
+    alt: "About"
     title: "About"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/_pages/about/"
     btn_class: "btn--primary"
     btn_label: "See more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "Work Sampls"
+    alt: "Work Samples"
     title: "Work Samples"
     # excerpt: ""
     url: "/_pages/samples/"
