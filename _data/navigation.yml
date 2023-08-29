@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://omi-masika.github.io/
+    url: /_pages/home.md
   - title: "About"
-    url: https://omi-masika.github.io/about/
+    url: /_pages/about.md
   - title: "Work Samples"
-    url: https://omi-masika.github.io/samples/
+    url: /_pages/about.md
   - title: "Resume"
-    url: https://omi-masika.github.io/resume/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /_pages/about.md
+  - title: "Photography"
+    url: /_pages/about.md
