@@ -19,7 +19,7 @@ locale: "en-US"
 title: "Omi Masika"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Omi Masika"
+#name: "Omi Masika"
 description: "An amazing website."
 url: # www.omi-masika.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
