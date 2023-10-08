@@ -33,13 +33,13 @@ feature_row:
     url: "/_pages/photography/"
     btn_class: "btn--primary"
     btn_label: "See more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "Music"
-    title: "Music"
-    excerpt: "Check out some of my own creations, plus what I'm listening to."
-    url: "/_pages/music/"
-    btn_class: "btn--primary"
-    btn_label: "See more"
+  # - image_path: /assets/images/mm-free-feature.png
+  #   alt: "Music"
+  #   title: "Music"
+  #   excerpt: "Check out some of my own creations, plus what I'm listening to."
+  #   url: "/_pages/music/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "See more"
 ---
 
 {% include feature_row %}
