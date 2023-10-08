@@ -25,7 +25,7 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <div class="archive__item-excerpt" style="max-height: 50px; justify-content: center; text-align: justify; text-justify: auto;">
+            <div class="archive__item-excerpt" style="max-height: 50px; max-width: 100px; justify-content: center; text-align: justify; text-justify: auto;">
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
