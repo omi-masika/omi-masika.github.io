@@ -7,7 +7,7 @@
 <div class="feature__wrapper" style="justify-content: center; margin-left: 175px;">
 
   {% for f in feature_row %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}" style="width: 1000px;">
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
