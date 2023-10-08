@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Work Samples"
     title: "Work Samples"
-    # excerpt: ""
+    excerpt: "Samples of programming work, including websites, games, apps, and more."
     url: "/_pages/samples/"
     btn_class: "btn--primary"
     btn_label: "See more"
