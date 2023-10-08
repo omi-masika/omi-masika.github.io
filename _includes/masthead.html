@@ -11,7 +11,7 @@
           {% comment %}{{ site.masthead_title | default: site.title }} {% endcomment %}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
-        <ul class="visible-links" style="align-self: center;">
+        <ul class="visible-links" style="align-content: center;">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
