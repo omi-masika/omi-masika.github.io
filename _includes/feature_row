@@ -25,17 +25,18 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <div class="archive__item-excerpt" style=" max-width: 250px; justify-content: center;">
+            <div class="archive__item-excerpt" style="max-height: 50px; max-width: 250px; justify-content: center;">
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
+        </div>
 
-          {% if f.url %}
           <div class="archive__item-button">
+            {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-          </div>
           {% endif %}
         </div>
+        
         </div>
     </div>
   {% endfor %}
