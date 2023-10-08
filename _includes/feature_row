@@ -33,7 +33,7 @@
         </div>
 
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}" style="margin-top: 100px; margin-left: 35px;">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}" style="margin-top: 100px; margin-left: 50px;">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
     </div>
   {% endfor %}
