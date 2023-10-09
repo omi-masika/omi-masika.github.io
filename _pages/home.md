@@ -13,14 +13,14 @@ feature_row:
   - image_path: /assets/images/headshot.png
     alt: "Photo of Omi Masika, they are wearing a jean jacket with a tan cardigan and green henley underneath, glasses, and a wool fedora. They are smiling at the camera, and behind them is a pumpkin patch."
     title: "About"
-    # excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Learn more about Omi."
     url: "/_pages/about.md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Work Samples"
     title: "Projects"
-    excerpt: "Samples of programming work, including websites, games, apps, and more."
+    excerpt: "Samples of programming work."
     url: "/_pages/project.md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
