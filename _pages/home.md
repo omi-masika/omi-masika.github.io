@@ -24,7 +24,7 @@ feature_row:
     url: "/_pages/project.md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/IMG_0824.png
+  - image_path: /assets/images/IMG_0824.jpg
     alt: "Macro photograph taken by Omi Masika of an air plant in an air plant glass bulb. In the glass, you can see the reflection of a building."
     title: "Photography"
     excerpt: "Photography work created by Omi Masika."
