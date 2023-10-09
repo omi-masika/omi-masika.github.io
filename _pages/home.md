@@ -2,37 +2,12 @@
 layout: splash
 permalink: /
 hidden: true
-- header:
-  author-profile:
-  # name: "Omi Masika"
-  avatar: "/assets/images/headshotSmall.png"
-  bio: "Developer and Automations Programmer"
-  location: "Philadelphia"
-  email: "omimasika@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/omi-masika"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-#   overlay_color: "#5e616c"
-#   overlay_image: /assets/images/jettySmall.jpg
-# #   actions:
-# #     # - label: "<i class='fas fa-download'></i> Install now"
-# #     #   url: "/docs/quick-start-guide/"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/jettySmall.jpg
+#   actions:
+#     # - label: "<i class='fas fa-download'></i> Install now"
+#     #   url: "/docs/quick-start-guide/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
@@ -68,4 +43,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-{% include author-profile %}
