@@ -17,8 +17,8 @@ feature_row:
     url: "/_pages/about.md/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "Work Samples"
+  - image_path: /assets/images/CodeScreenshot.png
+    alt: "Photo of code written by Omi Masika"
     title: "Projects"
     excerpt: "Samples of programming work."
     url: "/_pages/project.md/"
