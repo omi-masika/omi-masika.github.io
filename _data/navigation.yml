@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /_pages/home.md
   - title: "About"
-    url: /_pages/about.md
+    url: /about.md
   - title: "Dev Portfolio"
     url: /_pages/about.md
   - title: "Photography"
