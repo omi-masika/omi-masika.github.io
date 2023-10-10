@@ -188,7 +188,7 @@
     transition: none;
 
     &:hover {
-      color: #4c141b;
+      color: $masthead-link-color-hover;
     }
 
     &.site-logo {
@@ -243,7 +243,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        background: #4c141b;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
