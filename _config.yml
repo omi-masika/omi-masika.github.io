@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: "(They/Them)"
 #name: "Omi Masika"
 description: "An amazing website."
-url: # www.omi-masika.github.io
+url: www.omi-masika.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: omi-masika/omi-masika.github.io
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
