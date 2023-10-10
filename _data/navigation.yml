@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about.md
   - title: "Dev Portfolio"
-    url: /_pages/about.md
+    url: /_pages/test.md
   - title: "Photography"
     url: /_pages/about.md
   # - title: "Music"
