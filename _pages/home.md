@@ -2,13 +2,13 @@
 layout: splash
 permalink: /
 hidden: true
-# header:
-#   overlay_color: "#5e616c"
-#   overlay_image: /assets/images/jettySmall.jpg
-# # #   actions:
-# # #     # - label: "<i class='fas fa-download'></i> Install now"
-# # #     #   url: "/docs/quick-start-guide/"
-# excerpt: 
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/jettySmall.jpg
+# #   actions:
+# #     # - label: "<i class='fas fa-download'></i> Install now"
+# #     #   url: "/docs/quick-start-guide/"
+excerpt: Programmer. Photographer. Multipotentialist.
 feature_row:
   - image_path: /assets/images/headshot.png
     alt: "Photo of Omi Masika, they are wearing a jean jacket with a tan cardigan and green henley underneath, glasses, and a wool fedora. They are smiling at the camera, and behind them is a pumpkin patch."
