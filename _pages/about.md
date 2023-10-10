@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-hidden: false
+hidden: true
 excerpt: Programmer. Photographer. Multipotentialist.
 ---
 
