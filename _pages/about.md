@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /
-hidden: true
+permalink: /about/
+hidden: false
 excerpt: Programmer. Photographer. Multipotentialist.
 ---
 
