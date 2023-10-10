@@ -11,7 +11,7 @@ header:
 excerpt: Programmer. Photographer. Multipotentialist.
 feature_row:
   - image_path: /assets/images/headshot.png
-    alt: "Photo of Omi Masika, they are wearing a jean jacket with a tan cardigan and green henley underneath, glasses, and a wool fedora. They are smiling at the camera, and behind them is a pumpkin patch."
+    alt: "Photo of Omi Masika, they are wearing a jean jacket with a tan cardigan and green henley underneath, glasses, and a wool fedora. They are smiling at the camera, and behind them is a pumpkin patch. :)"
     title: "About"
     excerpt: "Learn more about Omi."
     url: "/_pages/about.md/"
