@@ -1,6 +1,3 @@
----
-layout: single
----
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
