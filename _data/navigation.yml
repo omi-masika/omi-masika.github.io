@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: [Home]({% link /home %})
   - title: "About"
-    url: /omi-masika.github.io/_pages/about
+    url: [About]({% link /about %})
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
