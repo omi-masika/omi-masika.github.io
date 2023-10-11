@@ -6,7 +6,7 @@ main:
     url: [About]({% link /about %})
   - title: "Dev Portfolio"
     url: /test.md
-  - title: "Photography"
-    url: /about.md
+  # - title: "Photography"
+  #   url: /about.md
   # - title: "Music"
   #   url: /_pages/about.md
