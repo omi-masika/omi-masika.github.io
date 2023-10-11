@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /omi-masika.github.io/_pages/about
+    url: [Home]({% link /home %})
   - title: "About"
-    url: /about.md
+    url: /omi-masika.github.io/_pages/about
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
