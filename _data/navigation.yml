@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /_pages/home.md
   - title: "About"
-    url: /_pages/about.md
+    url: [About]({% link /_pages/about %})
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
