@@ -1,6 +1,5 @@
 ---
-layout: single
-permalink: https://omi-masika.github.io/about
+permalink: /about/
 title: "About"
 toc: true
 ---
