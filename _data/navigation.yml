@@ -4,9 +4,9 @@ main:
     url: https://omi-masika.github.io/
   - title: "About"
     url: https://omi-masika.github.io/about
-  - title: "Dev Portfolio"
-    url: /test.md
+  - title: "Projects"
+    url: https://omi-masika.github.io/projects
   - title: "Photography"
-    url: /about.md
+    url: https://omi-masika.github.io/photography
   # - title: "Music"
   #   url: /_pages/about.md
