@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://omi-masika.github.io/home/
+    url: https://omi-masika.github.io/
   - title: "About"
     url: /about.md
   - title: "Dev Portfolio"
