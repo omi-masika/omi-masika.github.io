@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /home.md
+    url: /_pages/home.md
   - title: "About"
-    url: /about.md
+    url: /_pages/about.md
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
