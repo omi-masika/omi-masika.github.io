@@ -18,7 +18,7 @@
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}
-        {{ author.location }}
+        {{ author.location | markdownify }}
       </div>
     {% endif %}
   </div>
