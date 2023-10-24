@@ -5,6 +5,10 @@ toc: false
 classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Omi Masika (They/Them) is a Developer and Automations Programmer who lives in Philadelphia by way of Minnesota, Iowa, and Indiana.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Prior to completing their Full Stack Coding bootcamp with NuCamp, Omi was an EMT working in pre-hospital and in-hospital Critical Care until 2021. 
+
+They currently work as the Director of Member Technology with [Fishadelphia](https://www.fishadelphia.com), a community sustained fishery that brings fresh, local seafood to the Philadelphia community. They also have worked as a social justice facilitator, muay thai coach, community organizer, and case worker for LGBTQ people in the harm reduction and housing justice setting.
+
+In their spare time they enjoy camping, sports, and movies. And while they aren't always hungry, they will always eat.
