@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Home"
+  # - title: "Home"
     url: [Home]({% link /home %})
   - title: "About"
     url: /about.md
