@@ -2,8 +2,7 @@
 main:
   - title: "Home"
     url: /_pages/home.md
-  - title: "About"
-    url: [About]({{ site.baseurl }}{% link about.md %})
+  - url: [About]({{ site.baseurl }}{% link about.md %})
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
