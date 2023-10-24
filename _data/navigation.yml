@@ -1,6 +1,7 @@
 # main links
 main:
-  - [Home]({% /home %})
+  - title: "Home"
+    url: https://omi-masika.github.io/_pages/home/
   - title: "About"
     url: /about.md
   - title: "Dev Portfolio"
