@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home.md
+    url: /home.html
   - title: "About"
     url: /about.md
   - title: "Dev Portfolio"
