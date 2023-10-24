@@ -1,7 +1,6 @@
 # main links
 main:
-  - # title: "Home"
-    [Home]({% /home %})
+  - [Home]({% /home %})
   - title: "About"
     url: /about.md
   - title: "Dev Portfolio"
