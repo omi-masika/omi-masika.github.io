@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://omi-masika.github.io/
   - title: "About"
-    url: /about.md
+    url: https://omi-masika.github.io/about/
   - title: "Dev Portfolio"
     url: /test.md
   - title: "Photography"
