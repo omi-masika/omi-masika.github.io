@@ -27,7 +27,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body" style="margin-left: 10px;">
+        <div class="archive__item-body" style="margin-left: 5px;">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
