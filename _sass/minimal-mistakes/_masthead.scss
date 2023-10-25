@@ -4,20 +4,13 @@
 
 .masthead {
   position: sticky;
+  top: 0px;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-
-  // &.sticky {
-  //   overflow-y: auto;
-  //   /* calculate height of nav list
-  //      viewport height - nav height - masthead x-padding
-  //   */
-  //   max-height: calc(100vh - #{$nav-height} - 2em);
-  // }
 
   &__inner-wrap {
     @include clearfix;
