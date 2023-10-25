@@ -238,11 +238,11 @@
    Image Animations
    ========================================================================== */
    .column {
-    margin: 0px 0px 0;
+    margin: 15px 15px 0;
     padding: 0;
   }
   .column:last-child {
-    padding-bottom: 0px;
+    padding-bottom: 60px;
   }
   .column::after {
     content: '';
@@ -253,7 +253,7 @@
     position: relative;
     float: left;
     width: 400px;
-    height: 2500px;
+    height: 250px;
     margin: 0 0 0 0px;
     padding: 0;
   }
