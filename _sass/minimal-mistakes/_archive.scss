@@ -252,8 +252,8 @@
   .column div {
     position: relative;
     float: left;
-    width: 250px;
-    height: 400px;
+    width: 400px;
+    height: 2500px;
     margin: 0 0 0 0px;
     padding: 0;
   }
@@ -266,7 +266,7 @@
     left: 0;
     z-index: -1;
     display: block;
-    width: 250px;
+    width: 400px;
     margin: 0;
     padding: 0;
     color: #444;
@@ -278,8 +278,8 @@
     opacity: 0;
   }
   figure {
-    width: 250px;
-    height: 400px;
+    width: 400px;
+    height: 250px;
     margin: 0;
     padding: 0;
     background: #fff;
