@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 toc: true
-classes: wide
+# classes: wide
 ---
 
 Omi Masika (They/Them) is a Developer and Automations Programmer who lives in Philadelphia by way of Minnesota, Iowa, and Indiana.
