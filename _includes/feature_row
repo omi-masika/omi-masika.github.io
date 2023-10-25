@@ -26,7 +26,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body">
+        <div class="archive__item-body" style="margin-left: 10px;">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
@@ -39,7 +39,7 @@
         </div>
 
             {% if f.url %}
-            <div class="archive__item-button" style="margin-top: 5px;">
+            <div class="archive__item-button" style="margin-left: 10px;">
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           </div>
           {% endif %}
