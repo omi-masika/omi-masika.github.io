@@ -1,6 +1,6 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead" style="border-bottom: 5px solid #4c141b; position: sticky; top: 1px; padding-left: 5px;">
+<div class="masthead" style="border-bottom: 5px solid #4c141b; position: sticky; top: 1px; padding-left: 10px; padding-bottom: 5px;">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
