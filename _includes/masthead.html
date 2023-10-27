@@ -1,6 +1,6 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead" style="max-height: 100px;">
+<div class="masthead">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
@@ -10,7 +10,7 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
-        <ul class="visible-links">
+        <ul class="visible-links" style="padding-left: 200px;">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
