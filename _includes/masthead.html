@@ -1,7 +1,7 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead">
-    <div class="masthead__menu" style="border-bottom: 5px solid #4c141b; position: sticky; top: 1px;">
+<div class="masthead" style="border-bottom: 5px solid #4c141b; position: sticky; top: 1px;">
+    <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" style="margin: 20px;">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}" style="padding-top: 20px;"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
@@ -23,7 +23,7 @@
           <i class="fas fa-search"></i>
         </button>
         {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button" style="color: #4c141b; margin-left: -50px;">
+        <button class="greedy-nav__toggle hidden" type="button" style="color: #4c141b; margin-left: -300px;">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
         </button>

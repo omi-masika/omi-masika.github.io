@@ -3,11 +3,13 @@
    ========================================================================== */
 
 .masthead{
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.5s;
-    animation-delay: 0.5s;
-    z-index: 40;
+  position: sticky;
+  top: 1px;
+  -webkit-animation: $intro-transition;
+  animation: $intro-transition;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  z-index: 40;
 
     
 
@@ -40,8 +42,6 @@
 }
 
 .masthead__menu {
-  position: sticky;
-  top: 1px;
   float: left;
   margin-left: 0px;
   margin-right: 0;
