@@ -2,16 +2,14 @@
    MASTHEAD
    ========================================================================== */
 
-.masthead {
-  position: sticky;
-  top: 0px;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
-  z-index: 20;
-
-  &__inner-wrap {
+.masthead__inner-wrap {
+    position: sticky;
+    top: 0px;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+    z-index: 20;
     @include clearfix;
     margin-left: 0px;
     margin-right: 0px;
@@ -37,7 +35,6 @@
       text-decoration: none;
     }
   }
-}
 
 .site-logo img {
   max-height: 2rem;
