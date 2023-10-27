@@ -2,6 +2,27 @@
    MASTHEAD
    ========================================================================== */
 
+.masthead{
+    position: sticky;
+    top: 0px;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    -webkit-animation-delay: 0.15s;
+    animation-delay: 0.15s;
+    z-index: 40;
+
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
 
 .site-logo img {
   max-height: 2rem;
