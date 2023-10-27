@@ -7,13 +7,11 @@
     top: 0px;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
-    -webkit-animation-delay: 0.15s;
-    animation-delay: 0.15s;
+    -webkit-animation-delay: 1.0s;
+    animation-delay: 1.0s;
     z-index: 40;
 
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
+    
 
     nav {
       z-index: 10;
