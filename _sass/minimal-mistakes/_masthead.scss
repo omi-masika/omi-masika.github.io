@@ -4,7 +4,7 @@
 
 .masthead {
   position: sticky;
-  top: 1px;
+  top: 0px;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -14,8 +14,9 @@
 
   &__inner-wrap {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
